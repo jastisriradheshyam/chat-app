@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Radhe",
-  "license": "ISC",
+  "author": "Jasti Sri Radhe Shyam",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "socket.io": "^2.1.1"
